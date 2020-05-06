@@ -8,5 +8,5 @@ namespace Aggregation
 
     //TODO: Define constructor that gets "Amount" and "Period" and assigns them to its fields.
 
-    //TODO: Define public abstract method "Income" that returns deposit profit depends of "Amount" and "Period".
+    //TODO: Define public abstract method "Income" that returns deposit profit depending on "Amount" and "Period".
 }
