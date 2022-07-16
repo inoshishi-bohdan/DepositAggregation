@@ -2,7 +2,7 @@ namespace Aggregation
 {
     public class Client
     {
-        private Deposit[] deposits;
+        private readonly Deposit[] deposits;
         public Client()
         { 
             this.deposits = new Deposit[10];

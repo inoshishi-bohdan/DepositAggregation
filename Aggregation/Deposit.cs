@@ -1,6 +1,5 @@
 namespace Aggregation
 {
-    //TODO: Define public abstract class "Deposit"
     public abstract class Deposit
     {
         public decimal Amount { get; }
